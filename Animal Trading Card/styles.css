@@ -1,0 +1,41 @@
+/* add your CSS here */
+ul{
+    list-style-type: none;
+    padding: 0;
+}
+li{
+    list-style-type: none;
+}
+
+li span{
+    font-weight: bold;
+}
+
+img{
+    padding: 10px;
+}
+
+h3{
+    padding-left: 10px; 
+}
+
+#container{
+    width: 26.2%;
+}
+
+#interestingFact{
+    font-style: italic; 
+}
+
+#info{
+    border: 1px solid gray;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    width: 280px;
+    padding: 0px 10px 0px 10px;
+}
+
+#container{
+    border: 1px solid gray;
+    box-shadow: 10px 10px 10px gray;
+}
